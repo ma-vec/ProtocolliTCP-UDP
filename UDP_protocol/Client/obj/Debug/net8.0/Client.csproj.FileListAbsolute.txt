@@ -1,0 +1,14 @@
+F:\MRA\Sitemi\UDP_protocol\Client\bin\Debug\net8.0\Client.exe
+F:\MRA\Sitemi\UDP_protocol\Client\bin\Debug\net8.0\Client.deps.json
+F:\MRA\Sitemi\UDP_protocol\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+F:\MRA\Sitemi\UDP_protocol\Client\bin\Debug\net8.0\Client.dll
+F:\MRA\Sitemi\UDP_protocol\Client\bin\Debug\net8.0\Client.pdb
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.dll
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\refint\Client.dll
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.pdb
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+F:\MRA\Sitemi\UDP_protocol\Client\obj\Debug\net8.0\ref\Client.dll

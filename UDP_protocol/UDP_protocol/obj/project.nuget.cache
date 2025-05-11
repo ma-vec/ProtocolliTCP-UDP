@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDu8Bfp3sk0=",
+  "success": true,
+  "projectFilePath": "F:\\MRA\\Sitemi\\UDP_protocol\\UDP_protocol\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dadav\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.4\\system.configuration.configurationmanager.9.0.4.nupkg.sha512",
+    "C:\\Users\\dadav\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.4\\system.diagnostics.eventlog.9.0.4.nupkg.sha512",
+    "C:\\Users\\dadav\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.4\\system.security.cryptography.protecteddata.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
