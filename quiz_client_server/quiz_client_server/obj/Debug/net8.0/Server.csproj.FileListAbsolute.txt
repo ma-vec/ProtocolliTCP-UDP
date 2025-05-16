@@ -1,0 +1,14 @@
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\bin\Debug\net8.0\Server.exe
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\bin\Debug\net8.0\Server.deps.json
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\bin\Debug\net8.0\Server.runtimeconfig.json
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\bin\Debug\net8.0\Server.dll
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\bin\Debug\net8.0\Server.pdb
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.AssemblyInfoInputs.cache
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.AssemblyInfo.cs
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.dll
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\refint\Server.dll
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.pdb
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\Server.genruntimeconfig.cache
+C:\Users\vecchi.21208\source\repos\quiz_client_server\quiz_client_server\obj\Debug\net8.0\ref\Server.dll
